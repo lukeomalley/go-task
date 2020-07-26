@@ -30,7 +30,7 @@ Added "walk the dog" to your task list.
 
 ### List all tasks:
 
-```
+```sh
 > go-task ls
 
 You have the following tasks:
