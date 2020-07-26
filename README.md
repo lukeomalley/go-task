@@ -23,9 +23,9 @@ Go Task has a simple interface with three commands: `add`, `ls`, and `do`.
 ### Add a task:
 
 ```sh
-> go-task add walk the dog
+> go-task add walk the dog 🦮
 
-Added "walk the dog" to your task list.
+Added "walk the dog 🦮" to your task list.
 ```
 
 ### List all tasks:
